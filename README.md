@@ -1,7 +1,7 @@
 # Olá, eu sou o Leandro
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofilie//)](https://www.linkedin.com/in/leandrofilie//)
-[![ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leandro.gf03@gmail.com)](mailto:leandro.gf03@gmail.com)
+[![ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leandro.gfilie@gmail.com)](mailto:leandro.gfilie@gmail.com)
 
 
 

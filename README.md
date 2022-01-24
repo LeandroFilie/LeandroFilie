@@ -3,7 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofilie//)](https://www.linkedin.com/in/leandrofilie//)
 [![ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leandro.gfilie@gmail.com)](mailto:leandro.gfilie@gmail.com)
 
-
+<ul>
+   <li>Comecei a aprender programação no meu ensino médio, que foi integrado com o técnico em informática, no IFSP</li>
+   <li>Após aprender a base, foquei meus estudos no front-end e em computação na nuvem com AWS</li>
+    <li>Hoje em dia estou no processo de estudo na stack ReactJS e NodeJS</li>
+</ul>
 
 ## :computer: Tecnologias
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

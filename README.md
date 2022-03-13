@@ -5,8 +5,9 @@
 
 <ul>
    <li>Comecei a aprender programação no meu ensino médio, que foi integrado com o técnico em informática, no IFSP</li>
-   <li>Após aprender a base, foquei meus estudos no front-end e em computação na nuvem com AWS</li>
-    <li>Hoje em dia estou no processo de estudo na stack ReactJS e NodeJS</li>
+   <li>No IFSP, tive a oportunidade de me tornar Cloud Practitioner, certificado pela AWS</li>
+   <li>Após aprender a base, foquei meus estudos no Front-End, com o HTML, CSS e JavaScript</li>
+   <li>Hoje em dia, estou focando meus estudos no ReactJS e também no básico de NodeJS</li>
 </ul>
 
 ## :computer: Tecnologias

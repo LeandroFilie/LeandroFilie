@@ -8,6 +8,7 @@
    <li>No IFSP, tive a oportunidade de me tornar Cloud Practitioner, certificado pela AWS</li>
    <li>Após aprender a base, foquei meus estudos no Front-End, com o HTML, CSS e JavaScript</li>
    <li>Hoje em dia, estou focando meus estudos no ReactJS e também no básico de NodeJS</li>
+   <li>Atualmente, sou estudante do curso Tecnólogo em Análise e Desenvolvimento de Sistemas, no IFSP</li>
 </ul>
 
 ## :computer: Tecnologias

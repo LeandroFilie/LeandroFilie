@@ -4,11 +4,11 @@
 [![ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leandro.gfilie@gmail.com)](mailto:leandro.gfilie@gmail.com)
 
 <ul>
-   <li>Comecei a aprender programação no meu ensino médio, que foi integrado com o técnico em informática, no IFSP</li>
-   <li>No IFSP, tive a oportunidade de me tornar Cloud Practitioner, certificado pela AWS</li>
-   <li>Após aprender a base, foquei meus estudos no Front-End, com o HTML, CSS e JavaScript</li>
-   <li>Hoje em dia, estou focando meus estudos no ReactJS e também no básico de NodeJS</li>
-   <li>Atualmente, sou estudante do curso Tecnólogo em Análise e Desenvolvimento de Sistemas, no IFSP</li>
+   <li>Comecei a aprender programação no meu ensino médio, que foi integrado com o técnico em informática, no IFSP;</li>
+   <li>No IFSP, tive a oportunidade de me tornar Cloud Practitioner, certificado pela AWS;</li>
+   <li>Após aprender a base, foquei meus estudos no Front-End, com o HTML, CSS e JavaScript;</li>
+   <li>Hoje em dia, estou focando meus estudos no ReactJS e também no básico de NodeJS;</li>
+   <li>Atualmente, sou estudante do curso Tecnólogo em Análise e Desenvolvimento de Sistemas, no IFSP.</li>
 </ul>
 
 ## :computer: Tecnologias

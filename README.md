@@ -10,7 +10,21 @@
 </ul>
 
 ## :computer: Tecnologias
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,html,css,scss,js,jquery,php,mysql,aws,git,github,figma" height="35">
+<code><img src="https://skillicons.dev/icons?i=ts" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=react" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=styledcomponents" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=nodejs" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=html" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=css" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=scss" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=js" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=jquery" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=php" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=mysql" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=aws" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=git" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=github" height="35"></code>
+<code><img src="https://skillicons.dev/icons?i=figma" height="35"></code>
 
 ## :gear: GitHub Analytics
   <p align="center">

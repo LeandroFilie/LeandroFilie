@@ -5,12 +5,12 @@
 
 <ul>
    <li>Meu primeiro contato com programação foi durante o ensino médio, integrado com o técnico em informática, no IFSP</li>
-   <li>Meu foco é o desenvolvimento Front-End, com ReactJS</li>
-   <li>Tenho conhecimentos no Back-End através de experiências acadêmicas</li>
+   <li>Tenho conhecimentos em programação para web e tenho como foco principal o Front-End</li>
+   <li>Estou em constante estudo e sempre buscando escrever códigos com qualidade e que resolvem problemas.</li>
 </ul>
 
 ## :computer: Tecnologias
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,html,css,scss,js,jquery,php,mysql,aws,git,github,figma" height="30">
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,html,css,scss,js,jquery,php,mysql,aws,git,github,figma" height="35">
 
 ## :gear: GitHub Analytics
   <p align="center">

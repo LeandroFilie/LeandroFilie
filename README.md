@@ -26,9 +26,7 @@
 <code><img src="https://skillicons.dev/icons?i=github" height="35"></code>
 <code><img src="https://skillicons.dev/icons?i=figma" height="35"></code>
 
-<>
 ## :gear: GitHub Analytics
   <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeandroFilie&show_icons=true&theme=dracula" alt="Leandro Filie's Github Stats" />
   </p>
-<>

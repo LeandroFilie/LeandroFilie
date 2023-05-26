@@ -22,5 +22,5 @@
 
 ## :gear: GitHub Analytics
   <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeandroFilie&show_icons=true&theme=dracula" alt="Leandro Filie's Github Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeandroFilie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Leandro Filie's Github Stats" />
   </p>

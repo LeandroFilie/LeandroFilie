@@ -6,7 +6,7 @@
 <ul>
    <li>Formado em Informática no nível ténico pelo Instituto Federal de São Paulo, onde obtive meu primeiro contato com programação.</li>
    <li>Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.</li>
-   <li>Tenho como foco o desenvolvimento web, principalmente o front-end.</li>
+   <li>Tenho como foco o desenvolvimento web front-end mas possuo conhecimentos em back-end</li>
 </ul>
 
 ## :computer: Tecnologias

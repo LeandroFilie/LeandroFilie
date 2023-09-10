@@ -4,21 +4,26 @@
 [![ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leandro.gfilie@gmail.com)](mailto:leandro.gfilie@gmail.com)
 
 <ul>
+   <li>Interesse no Desevolvimento Web Full-Stack</li>
    <li>Formado em Informática no nível ténico pelo Instituto Federal de São Paulo, onde obtive meu primeiro contato com programação.</li>
    <li>Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.</li>
-   <li>Tenho como foco o desenvolvimento web front-end mas possuo conhecimentos em back-end</li>
 </ul>
 
 ## :computer: Tecnologias
 <code><img src="https://skillicons.dev/icons?i=ts" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=react" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=tailwind" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=materialui" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=styledcomponents" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=nodejs" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=jest" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=html" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=css" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=js" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=aws" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=git" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=mysql" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=postgresql" height="30"></code>
 
 ## :gear: GitHub Analytics
   <p align="center">

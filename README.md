@@ -4,9 +4,11 @@
 [![ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leandro.gfilie@gmail.com)](mailto:leandro.gfilie@gmail.com)
 
 <ul>
-   <li>Interesse no Desevolvimento Web Full-Stack.</li>
-   <li>Formado em Informática no nível ténico pelo Instituto Federal de São Paulo, onde obtive meu primeiro contato com programação.</li>
-   <li>Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.</li>
+   <li>Tenho como foco o Desevolvimento Full-Stack.</li>
+   <li>Sempre busco me aprofundar no estudo de algoritmos e estrutura de dados</li>
+   <li>Experiência sólida na stack Javascript ReactJS/NodeJS</li>
+   <li>Atualmente busco me especializar na stack Angular/Java(Spring)</li>
+   <li>Formado em Informática no nível técnico pelo IFSP, e curso Análise e Desenvolvimento de Sistemas, também no IFSP.</li>
 </ul>
 
 ## :computer: Tecnologias

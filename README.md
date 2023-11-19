@@ -7,7 +7,6 @@
    <li>Tenho como foco o Desevolvimento Full-Stack.</li>
    <li>Sempre busco me aprofundar no estudo de algoritmos e estrutura de dados</li>
    <li>Experiência sólida na stack Javascript ReactJS/NodeJS</li>
-   <li>Atualmente busco me especializar na stack Angular/Java(Spring)</li>
    <li>Formado em Informática no nível técnico pelo IFSP, e curso Análise e Desenvolvimento de Sistemas, também no IFSP.</li>
 </ul>
 

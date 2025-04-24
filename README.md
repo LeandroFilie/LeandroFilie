@@ -6,25 +6,25 @@
 <ul>
    <li>Tenho como foco o Desevolvimento Full-Stack.</li>
    <li>Sempre busco me aprofundar no estudo de algoritmos e estrutura de dados</li>
-   <li>Experiência sólida na stack Javascript ReactJS/NodeJS</li>
-   <li>Formado em Informática no nível técnico pelo IFSP, e curso Análise e Desenvolvimento de Sistemas, também no IFSP.</li>
+   <li>Experiência sólida no desenvolvimento utilizando Angular, Java e SpringBoot, além da stack Javascript, com  ReactJS e NodeJS</li>
+   <li>Formado em Informática no nível técnico pelo IFSP, e curso Análise e Desenvolvimento de Sistemas, também na PUC PR.</li>
 </ul>
 
 ## :computer: Tecnologias
 <code><img src="https://skillicons.dev/icons?i=ts" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=angular" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=react" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=nodejs" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=java" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=spring" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=mysql" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=postgresql" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=aws" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=git" height="30"></code>
+<code><img src="https://skillicons.dev/icons?i=jest" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=tailwind" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=materialui" height="30"></code>
 <code><img src="https://skillicons.dev/icons?i=styledcomponents" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=nodejs" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=jest" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=html" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=css" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=js" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=aws" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=git" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=mysql" height="30"></code>
-<code><img src="https://skillicons.dev/icons?i=postgresql" height="30"></code>
 
 ## :gear: GitHub Analytics
   <p align="center">
